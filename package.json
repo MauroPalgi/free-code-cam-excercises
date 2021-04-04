@@ -1,5 +1,6 @@
 {
   "name": "free-code-camp-excercieses",
+  "author": "",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +12,12 @@
     "url": "git+https://github.com/MauroPalgi/free-code-cam-excercises.git"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MauroPalgi/free-code-cam-excercises/issues"
   },
-  "homepage": "https://github.com/MauroPalgi/free-code-cam-excercises#readme"
+  "homepage": "https://github.com/MauroPalgi/free-code-cam-excercises#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
