@@ -1,8 +1,8 @@
 {
   "name": "free-code-camp-excercieses",
-  "author": "",
+  "author": "mauro palgi",
   "version": "1.0.0",
-  "description": "",
+  "description": "desciption",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
